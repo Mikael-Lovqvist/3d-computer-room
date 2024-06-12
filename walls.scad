@@ -1,0 +1,1 @@
+linear_extrude(3500) import("room-walls.dxf") ;
