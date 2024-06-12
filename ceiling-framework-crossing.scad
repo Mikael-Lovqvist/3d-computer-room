@@ -1,0 +1,1 @@
+linear_extrude(30) import("ceiling-framework-crossing.dxf");
